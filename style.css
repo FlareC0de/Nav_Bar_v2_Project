@@ -79,7 +79,7 @@ ul .indicator::before{
     width: 20px;
     background: #fff;
     border-bottom-right-radius: 20px;
-    box-shadow: 0 10px 0 #8ceb93;
+    box-shadow: 0 11px 0 #8ceb93;
 }
 ul .indicator::after{
     content: "";
